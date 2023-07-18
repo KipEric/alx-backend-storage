@@ -1,0 +1,4 @@
+//A script that deletes all documents in a collection
+db.school. deleteMany(
+    { name: "Holberton school"}
+)

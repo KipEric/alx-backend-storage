@@ -1,0 +1,2 @@
+// Sript that list all documents in collection
+db.school.find({name: "Holberton school"})
